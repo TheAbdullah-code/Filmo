@@ -1,8 +1,8 @@
 import React from "react";
 import './video.css'
-
+                                                                            
 const videos = [
-  { name: "ALAQA",    desc:"Session Epi-3", videoSrc: "video.mp4", adLink: "https://adlink1.com", downloadLink: "video.mp4" },
+  { name: "ALAQA",    desc:"Session Epi-3", videoSrc: "video.mp4", adLink: " https://poawooptugroo.com/4/7245179", downloadLink: "video.mp4" },
   { name: "GARWASHI", desc:"Session Epi-3", videoSrc: "video.mp4", adLink: "https://adlink2.com", downloadLink: "https://download2.com" },
   { name: "JAMILUN JIDDA", desc:"Session Epi-3", videoSrc: "video.mp4", adLink: "https://adlink2.com", downloadLink: "https://download2.com" },
   { name: "ZAMAN AURE", desc:"Session Epi-3", videoSrc: "video.mp4", adLink: "https://adlink2.com", downloadLink: "https://download2.com" },
